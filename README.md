@@ -1,2 +1,2 @@
 # Job-posting-engagement-prediction-and-insights
-Developed machine learning models to predict job post engagement using 44,000+ postings achieving 76% accuracy.
+Our solution addresses critical challenges faced by companies—crafting job postings that attract top talent while setting competitive salary ranges—and by job seekers—ensuring they can accurately benchmark and negotiate their compensation.
